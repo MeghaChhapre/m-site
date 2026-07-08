@@ -8,7 +8,7 @@
 .banner {
     width: 100%;
     height: 300px;
-    background: linear-gradient(135deg, #9beccd, #00b3a4);
+    background: linear-gradient(135deg, #9beccd, #004eb3);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -23,8 +23,4 @@
     border-radius: 5px;
     cursor: pointer;
     font-weight: bold;
-}
-
-.active h1 {
-    color: #4ade80;
 }
